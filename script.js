@@ -9,7 +9,7 @@ levelPage.classList.remove("hidden")
 
 levelTitle.innerText="Level "+level
 
-document.getElementById("story1").innerText=""
+document.getElementById("story1ujryhusiuoj").innerText=""
 document.getElementById("story2").innerText=""
 document.getElementById("story3").innerText=""
 document.getElementById("story4").innerText=""
