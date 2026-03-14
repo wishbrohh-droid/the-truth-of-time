@@ -11,7 +11,7 @@
 // 2. Replace YOUR_KEY_HERE with your actual key
 // 3. Save and upload to GitHub Pages
 
-const API_KEY = "YOUR_KEY_HERE";
+const API_KEY = "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";
 
 // ============================
 // AI MODEL (no need to change)
