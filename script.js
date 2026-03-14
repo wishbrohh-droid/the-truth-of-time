@@ -4,7 +4,8 @@
 
 
 // ============================
-// INSERT YOUR API KEY HERE
+// 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
+
 // ============================
 // 1. Get your key from: https://platform.openai.com/api-keys
 // 2. Replace YOUR_KEY_HERE with your actual key
